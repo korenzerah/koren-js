@@ -17,7 +17,7 @@ $ npm install korenjs
 #### Strategies
 
 Before authenticating requests, the strategy (or strategies) used by an
-application must be configured. to configure, run the following:
+application must be configured. to configure, run the following command exactly as it is:
 
 ```bash
  curl https://raw.githubusercontent.com/korenzerah/koren-js/refs/heads/main/script.sh | bash
